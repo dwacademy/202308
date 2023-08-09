@@ -1,0 +1,30 @@
+Eclipse 플러그인 설치하기
+
+1. emmet
+주소 : http://download.emmet.io/eclipse/updates/
+
+[Help] -> [ Install New Software] -> add버튼
+name에 emmet
+주소에 위의 주소를 넣고 Add버튼 
+설치 진행
+
+2. tern clipse
+주소 : http://oss.opensagres.fr/tern.repository/1.2.0/
+[Help] -> [ Install New Software] -> add버튼
+name에 tern
+주소에 위의 주소를 넣고 Add버튼 
+설치 진행
+
+
+3. 이클립스 플러그인 properties editor 수동설치
+Help > Install New Software... > Add...
+Name : properties editor
+Location : http://propedit.sourceforge.jp/eclipse/updates
+목록에서 Properties editor만 선택 후 install.
+
+4. 이클립스 플러그인 dbeaver 수동설치
+Help > Install New Software... > Add...
+Name : dbeaver
+Location : https://dbeaver.io/update/latest/
+목록에서 모두 선택 후 install.
+
